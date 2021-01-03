@@ -1,0 +1,76 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    
+    
+}
+.intro{
+    padding-top: 50px;
+
+}
+.intro h1{
+    color: cyan;
+    text-align: center;
+    font-size: 50px;
+    font-family: cursive;
+}
+.img{
+    width: 100%;
+    height: 100%;
+    }
+.img img{
+    margin: 0 auto;
+    display: block;
+    border-radius: 120px;
+    height: 250px;
+    width: 250px;
+}
+.information{
+    margin-left: 20px;
+
+    
+}
+.information h4{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 30px;
+    
+    
+    
+}
+.address{
+        background-color:#75301e;
+        
+        
+        width: 30%;
+        
+        border-radius: 10px;
+        float: left;
+        margin-bottom: 30px;
+        margin-left: 30px;
+}
+.address h2{
+    color: yellow;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 20px;
+    font-family: cursive;
+    
+}
+.address .add{
+       padding-bottom: 20px;
+       padding-top: 10px;
+}
+.address .add li{
+    color: yellowgreen;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.pk{
+    padding: 6px;
+}
+.kk{
+    padding: 2px;
+}
